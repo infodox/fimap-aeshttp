@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin 
+                name="AES HTTP Reverse Shell Injector"
+                startup="aeshttp" 
+                version="1"
+                autor="Darren Martyn"
+                email="infodox@insecurety.net"
+                url="http://insecurety.net"
+/>
